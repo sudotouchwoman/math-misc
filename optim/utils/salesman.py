@@ -1,3 +1,4 @@
+import numpy as np
 from numpy.random import default_rng
 from scipy.spatial import distance_matrix
 

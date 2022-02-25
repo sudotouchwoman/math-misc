@@ -1,4 +1,6 @@
+import numpy as np
 import plotly.graph_objects as go
+import plotly.express as px
 import pandas as pd
 
 # draw the cities as dots in
